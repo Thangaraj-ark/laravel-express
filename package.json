@@ -1,0 +1,24 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thangaraj-ark/laravel-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thangaraj-ark/laravel-express/issues"
+  },
+  "homepage": "https://github.com/Thangaraj-ark/laravel-express#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4",
+    "nodemon": "^3.1.4"
+  }
+}
